@@ -1,4 +1,7 @@
-﻿﻿// int ReadData(string msg) // вводим данные
+﻿﻿// Напишите программу, которая принимает на вход число (N) и выдаёт таблицу квадратов чисел от 1 до N.
+
+
+// int ReadData(string msg) // вводим данные
 // {
 //     Console.WriteLine(msg);
 //     int num = int.Parse(Console.ReadLine()??"0");
